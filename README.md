@@ -18,6 +18,22 @@ Connects to a local Python WebSocket server and displays live signals with confi
 
 ## Latest release
 
+## v1.3.0 — 2026-03-17
+
+New Crypto Pricing Algorithm
+
+**[Download otto_finance_app_v1.3.0.zip](https://github.com/ottoxc/otto-finance-app-releases/releases/download/v1.3.0/otto_finance_app_v1.3.0.zip)**
+
+---
+
+## Changelog
+
+## v1.3.0 — 2026-03-17
+
+New Crypto Pricing Algorithm
+
+**[Download otto_finance_app_v1.3.0.zip](https://github.com/ottoxc/otto-finance-app-releases/releases/download/v1.3.0/otto_finance_app_v1.3.0.zip)**
+
 ## v1.2.0 — 2026-03-17
 
 New Crypto Pricing Algorithm
